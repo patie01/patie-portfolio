@@ -93,7 +93,7 @@ footer {
 }
 
 h1 {
-  font-size: 1.08rem;
+  font-size: clamp(1.8rem,5vw,2,5rem);
   line-height: 1.05;
   font-weight: 800;
   text-shadow: 0 5px 20px rgba(48, 35, 115, 0.16);
